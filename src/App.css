@@ -1,0 +1,26 @@
+.container {
+  position: relative;
+  height: 400px;
+  font-family: "B612", sans-serif;
+  width: 800px;
+}
+
+.particle-canvas {
+  background-color: #a0d0f8;
+}
+
+.text-wrapper {
+  position: absolute;
+  top: 100px;
+  left: 50px;
+}
+
+.user-name {
+  font-size: 28px;
+  color: orange;
+}
+
+.Typewriter {
+  font-weight: 700;
+  font-size: 32px;
+}
